@@ -7,3 +7,7 @@ Skrypt aktualnie wybiera najczęstszy odpowiednik, bez decyzji kontekstowych, ma
 
 TODO
 Transkrypcja kontekstowa wg zasad za https://www.kul.pl/files/602/transkrypcja/Alfabet_ukrainski.pdf
+
+Praca na innych formach inputu
+
+Transkrypcja  polski -> ukraiński
